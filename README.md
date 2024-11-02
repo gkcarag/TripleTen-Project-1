@@ -7,4 +7,4 @@
 # Then, run 'streamlit run app.py' to view page locally.
 
 # Render link:
-# https://tripleten-project-1-h7fq.onrender.com/https://tripleten-project-1-h7fq.onrender.com/
+# https://tripleten-project-1-h7fq.onrender.com/
