@@ -5,3 +5,6 @@
 # Then install the github repository into your local files.
 # Enter 'conda base activate' to enable python environment.
 # Then, run 'streamlit run app.py' to view page locally.
+
+# Render link:
+# https://tripleten-project-1-h7fq.onrender.com/https://tripleten-project-1-h7fq.onrender.com/
